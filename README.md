@@ -45,7 +45,7 @@ Soy una persona creativa y proactiva, con formación técnica en programación, 
 
 ## 🌍 Encuéntrame también en
 - [Itch.io](https://adrian-perez-aranda.itch.io/) 🎮
-- [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/adrián-pérez-aranda-163494337)) 💼
+- [LinkedIn](https://www.linkedin.com/in/adrián-pérez-aranda-163494337) 💼
   
 ---
 
