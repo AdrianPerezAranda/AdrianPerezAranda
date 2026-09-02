@@ -43,6 +43,19 @@ Soy una persona creativa y proactiva, con formación técnica en programación, 
 
 ---
 
+## 🚀 Proyectos destacados
+
+### 🎮 Videojuegos
+- [Defense Across Time](https://github.com/AdrianPerezAranda/defense-across-time) — Tower Defense en 1ª persona (Unity, C#)
+- [El Equilibrio Roto](https://github.com/AdrianPerezAranda/el-equilibrio-roto) — Plataformas 2D (Unity, C#)
+- [Arkanoid Clone](https://github.com/AdrianPerezAranda/arkanoid-clone) — Clon de Arkanoid con niveles en XML
+- [Alien Invasion](https://github.com/AdrianPerezAranda/alien-invasion) — Arcade de naves (Android Studio, Java)
+
+### 🌐 Backend / Full Stack
+
+
+---
+
 ## 🌍 Encuéntrame también en
 - [Itch.io](https://adrian-perez-aranda.itch.io/) 🎮
 - [LinkedIn](https://www.linkedin.com/in/adrián-pérez-aranda) 💼
