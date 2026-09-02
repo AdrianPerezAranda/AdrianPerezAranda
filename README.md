@@ -61,7 +61,10 @@ Soy una persona creativa y proactiva, con formación técnica en programación, 
 - Documentación de incidencias
 - Mantenimiento de redes y equipos
 
-- **AC Marca** (Auxiliar de gestión de datos, contrato temporal, feb 2026) — Validación y corrección de datos en base de datos corporativa, estandarización de campos y control de calidad, asociación de imágenes a fichas de producto para sistema QR
+### Auxiliar de gestión de datos - AC Marca (Feb 2026)
+- Validación y corrección de datos en base de datos corporativa
+- Estandarización de campos y control de calidad
+- Asociación de imágenes a fichas de producto para sistema QR
 
 ---
 
