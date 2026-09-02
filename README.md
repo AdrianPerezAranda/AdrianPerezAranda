@@ -72,7 +72,7 @@ Soy una persona creativa y proactiva, con formación técnica en programación, 
 - [Alien Invasion](https://github.com/AdrianPerezAranda/alien-invasion) — Arcade de naves (Android Studio, Java)
 
 ### 🌐 Backend / Full Stack
--[Biblioteca API](https://github.com/AdrianPerezAranda/biblioteca-api) - API REST de gestión de libros (Java, Spring Boot)
+- [Biblioteca API](https://github.com/AdrianPerezAranda/biblioteca-api) - API REST de gestión de libros (Java, Spring Boot)
 
 ---
 
