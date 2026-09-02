@@ -73,7 +73,10 @@ Soy una persona creativa y proactiva, con formación técnica en programación, 
 
 ### 🌐 Backend / Full Stack
 - [Biblioteca API](https://github.com/AdrianPerezAranda/biblioteca-api) - API REST de gestión de libros (Java, Spring Boot)
+- [K-pop API](https://github.com/AdrianPerezAranda/kpop-api) — API REST con relaciones de datos (Java, Spring Boot)
+- [K-pop Frontend](https://github.com/AdrianPerezAranda/kpop-frontend) — Interfaz React conectada a kpop-api (React, JavaScript)
 
+  
 ---
 
 ## 🌍 Encuéntrame también en
