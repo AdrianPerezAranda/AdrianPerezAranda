@@ -9,11 +9,11 @@ Soy una persona creativa y proactiva, con formación técnica en programación, 
 ## 🧰 Tecnologías y herramientas que manejo
 
 ### 💻 Lenguajes de programación
-- Java, C#, C++, PHP, SQL
-- Nociones básicas de Python
+- Java, C#, C++, PHP, SQL, Python
 
 ### 🌐 Web y bases de datos
-- HTML, CSS, WordPress, PHPMyAdmin
+- HTML, CSS, WordPress, PHPMyAdmin, MySQL
+- H2 (bases de datos en memoria para desarrollo)
 
 ### 🎮 Motores y herramientas de desarrollo
 - Unity, Unreal Engine
@@ -25,6 +25,26 @@ Soy una persona creativa y proactiva, con formación técnica en programación, 
 ### 🖥️ Ofimática y sistemas
 - Excel avanzado, Word, PowerPoint
 - Linux, redes locales, mantenimiento de equipos y máquinas virtuales
+
+### ⚙️ Backend y frameworks
+- Spring Boot, Spring Data JPA
+- Flask (Python)
+- APIs REST (diseño y consumo)
+- Maven
+
+### 🎨 Frontend
+- React
+- JavaScript, HTML, CSS
+
+### 🔌 APIs y servicios externos
+- YouTube Data API
+- Google Cloud (Speech-to-Text, Translation, Text-to-Speech)
+- AudD (reconocimiento de audio)
+
+### 🧰 Herramientas de desarrollo
+- Git, GitHub Desktop
+- Postman
+- NetBeans, VS Code
 
 ---
 
